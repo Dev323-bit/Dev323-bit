@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- GitHub Profile README for Devnath K -->
 
-<!--
-**Dev323-bit/Dev323-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Dev !
 
-Here are some ideas to get you started:
+🎓 B.Tech AIML student — currently studying and exploring tech<br/>
+💻 Learning Web Development, Front-End technologies, and UI/UX<br/>
+🚀 Working on projects using React.js, Node.js, MongoDB, Firebase, Vite, HTML, and JavaScript<br/>
+🧠 Currently learning and working on full-stack websites<br/>
+🌐 Check out my work on [Vercel](https://vercel.com/devs-projects-7ac137ef)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+![Devnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev323-bit&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&layout=compact&theme=radical)
