@@ -1,5 +1,5 @@
 ### Hi, I'm Dev 💫
-🔭 I’m currently working on a  full-stack web apps using React, Node.js, MongoDB, Firebase, and Vite<br><br>🤝 I’m looking to collaborate on front-end or full-stack projects where I can learn more and improve my UI/UX skills  <br><br>🤝 I’m looking for help with backend stuff like integrating APIs and working with databases more efficiently  <br><br>🌱 I’m currently learning Express.js, advanced JavaScript, and how to create better UI/UX designs  <br><br>💬 Ask me about React, Firebase, or how I built my Projects from scratch 😄  <br><br>⚡ Fun fact: I started learning web dev while doing my B.Tech in AIML
+🚀 I'm passionate about building modern web applications and transforming ideas into real-world digital experiences using React, Node.js, MongoDB, Firebase, and Vite.<br><br>🌱 Continuously learning Express.js, advanced JavaScript, backend architecture, and UI/UX design to create scalable and user-friendly applications.  <br><br>🤝 💡 I enjoy working on projects that challenge my creativity, strengthen my technical skills, and help me grow as a developer.  <br><br>💬 Ask me about React, Firebase, frontend development, or the projects I've built from concept to deployment 😄  <br><br>🤝 Always excited to connect with developers, contribute to interesting projects, and learn from the tech community.  
 
 
 ## 🌐 Socials:
