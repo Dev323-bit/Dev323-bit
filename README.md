@@ -20,12 +20,21 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+| 💻 Core Metrics | 🔠 Most Used Languages |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
 <br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev323-bit&theme=dark" width="100%" />
+</p>
+
+<br/>
+
+### 🔥 Contribution Streak:
 ![](https://nirzak-streak-stats.vercel.app/?user=Dev323-bit&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev323-bit&theme=dark)
 
 ---
 
