@@ -19,7 +19,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev323-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![github profile trophy](https://github-profile-trophy.vercel.app/?username=Dev323-bit&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
