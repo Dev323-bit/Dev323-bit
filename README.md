@@ -18,7 +18,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Stats & Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev323-bit&theme=dark)
 
 ---
