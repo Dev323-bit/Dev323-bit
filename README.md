@@ -1,6 +1,6 @@
 ### Hi, I'm Dev 💫 🚀
 
-I'm passionate about building modern web applications and transforming ideas into real-world digital experiences using React, Node.js, MongoDB, Firebase, and Vite.
+🚀 I'm passionate about building modern web applications and transforming ideas into real-world digital experiences using React, Node.js, MongoDB, Firebase, and Vite.
 
 🌱 **Continuously learning:** Express.js, advanced JavaScript, backend architecture, and UI/UX design to create scalable and user-friendly applications.
 
@@ -51,16 +51,6 @@ I'm passionate about building modern web applications and transforming ideas int
 ![](https://github-readme-stats.vercel.app/api?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev323-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dev323-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
