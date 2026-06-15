@@ -1,8 +1,8 @@
 ### Hi, I'm Dev 💫 🚀
 
-🚀 I'm passionate about building modern web applications and transforming ideas into real-world digital experiences using React, Node.js, MongoDB, Firebase, and Vite.
+🚀 I'm passionate about building modern web applications using React, Node.js, MongoDB, Firebase, and Vite.
 
-🌱 **Continuously learning:** Express.js, advanced JavaScript, backend architecture, and UI/UX design to create scalable and user-friendly applications.
+🌱 **Continuously learning:** Express.js, advanced JavaScript, backend architecture, and UI/UX design 
 
 💡 I enjoy working on projects that challenge my creativity, strengthen my technical skills, and help me grow as a developer.
 
