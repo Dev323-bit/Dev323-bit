@@ -74,9 +74,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev323-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev323-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev323-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0"/>
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dev323-bit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dev323-bit&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&cache_seconds=0"/>
 
 </div>
 
