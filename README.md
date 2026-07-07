@@ -70,16 +70,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dev323-bit&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
