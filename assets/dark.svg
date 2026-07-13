@@ -285,18 +285,6 @@
         </g>
         </g>
 
-        
-      <g transform="translate(0,484)" opacity="0">
-        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.2s" fill="freeze"/>
-        <a href="https://github.com/" target="_blank">
-          <rect x="0" y="0" width="120" height="34" rx="17" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad-dark)" stroke-width="1"/>
-          <text x="60" y="22" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#F8FAFC">GitHub</text>
-        </a>
-        <a href="https://portfolio-omega-ochre-89.vercel.app" target="_blank">
-          <rect x="132" y="0" width="140" height="34" rx="17" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad-dark)" stroke-width="1"/>
-          <text x="202" y="22" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#F8FAFC">Portfolio</text>
-        </a>
-      </g>
       </g>
     </g>
   </g>
