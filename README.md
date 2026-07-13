@@ -6,13 +6,6 @@
 
 <div align="center">
 
-# Hi, I'm Dev 💫🚀
-
-### Building modern web applications with React, Node.js, MongoDB, Firebase & Vite
-
-</div>
-
----
 
 ## 🌱 About Me
 
